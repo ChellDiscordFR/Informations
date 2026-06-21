@@ -37,9 +37,9 @@ Ce dépôt centralise les documents importants liés au fonctionnement, à l'uti
 
 | Ressources | Description |
 | :--- | :--- |
-| ⚖️ **[LEGAL.md](./CGU.md)** | **Conditions Générales, Mentions Légales & RGPD**. *C'est le document de référence pour vos droits et les règles d'utilisation de l'application.* |
-| 👮 **[BLACKLIST.md](./BLACKLIST.md)** | **Conditions Générales et fonctionnement concernant le système de Blacklist**. *C'est le document de référence pour vos droits et les règles ainsi que fonctionnement en matère de BLACKLIST.* |
-| 🤫 **[CONFESSIONS.md](./CONFESSIONS.md)** | **Conditions Générales et fonctionnement du système de confessions anonymes**. *Tout ce qu'il y a à savoir concernant les confessions se trouve là-bas !* |
+| ⚖️ **[LEGAL.md](./LEGAL/CGU.md)** | **Conditions Générales, Mentions Légales & RGPD**. *C'est le document de référence pour vos droits et les règles d'utilisation de l'application.* |
+| 👮 **[BLACKLIST.md](./LEGAL/BLACKLIST.md)** | **Conditions Générales et fonctionnement concernant le système de Blacklist**. *C'est le document de référence pour vos droits et les règles ainsi que fonctionnement en matère de BLACKLIST.* |
+| 🤫 **[CONFESSIONS.md](./LEGAL/CONFESSIONS.md)** | **Conditions Générales et fonctionnement du système de confessions anonymes**. *Tout ce qu'il y a à savoir concernant les confessions se trouve là-bas !* |
 | 🌐 **[Chell.fr](https://chell.fr)** | Le site officiel vitrine et l'accès sécurisé à votre tableau de bord. |
 | 💬 **[Support Discord](https://discord.gg/HxR89qcXrG)** | Rejoignez notre serveur pour obtenir de l'aide, interagir avec l'équipe ou suivre les mises à jour. |
 
